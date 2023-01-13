@@ -1,0 +1,83 @@
+body{
+    background-image: url("https://w0.peakpx.com/wallpaper/586/514/HD-wallpaper-gaming-setup-computers.jpg");
+}
+*{
+    margin: 2px;
+    padding: 0px
+    
+}
+div img{
+    width: 99%;
+}
+
+#pinares{
+    width: 98%;
+    margin: 0px auto;
+    
+}
+.pinares1{
+
+    width: 100%;
+    height: 100px;
+    margin: 0px;
+    
+}
+.pinares2{
+    margin: opx;
+    width: 99.8%;
+    height: 100px;
+    background-color: black;
+    
+}
+ul{
+    list-style: none;
+}
+.menu > li{
+    float: left; width: 19.5%;
+    
+}
+nav{
+    margin: 3px;
+    
+}
+
+
+.menu li a{
+    background-color: black;
+    color:white;
+    text-transform: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+    border: 2px solid white;
+}
+.menu li ul{
+    display: none;
+    position: absolute;
+    }
+
+
+.menu li:hover ul{
+    display: block;
+    position: absolute;
+}
+.menu li a:hover{
+    background-color: rgb(255, 38, 0);
+    font-style: inherit;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+p{
+    text-align: center;
+    color: white;
+    text-justify: auto;
+    margin-left: 450px;
+    margin-right: 450px;
+
+}
+h2{
+    text-align: center;
+    color: white;
+}

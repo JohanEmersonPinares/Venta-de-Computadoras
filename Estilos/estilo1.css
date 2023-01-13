@@ -1,0 +1,258 @@
+body{
+    background-image: url("https://w0.peakpx.com/wallpaper/586/514/HD-wallpaper-gaming-setup-computers.jpg");
+}
+*{
+    margin: 2px;
+    padding: 0px
+    
+}
+div img{
+    width: 99%;
+}
+
+#pinares{
+    width: 98%;
+    margin: 0px auto;
+    
+}
+.pinares1{
+
+    width: 100%;
+    height: 200px;
+    margin: 0px;
+    
+}
+.pinares2{
+    margin: opx;
+    width: 99.8%;
+    height: 100px;
+    background-color: black;
+    
+}
+ul{
+    list-style: none;
+}
+.menu > li{
+    float: left; width: 19.5%;
+    
+}
+nav{
+    margin: 3px;
+    
+}
+
+
+.menu li a{
+    background-color: black;
+    color:white;
+    text-transform: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+    border: 2px solid white;
+}
+.menu li ul{
+    display: none;
+    position: absolute;
+    }
+
+
+.menu li:hover ul{
+    display: block;
+    position: absolute;
+}
+.menu li a:hover{
+    background-color: rgb(0, 140, 255);
+    font-style: inherit;
+}
+
+
+
+.primero {
+	width: 100%;
+	display: flex;
+    flex-wrap: wrap;
+	flex-direction: row;
+	justify-content: space-around;
+    margin: 0px;
+   background-image: url("https://p4.wallpaperbetter.com/wallpaper/88/907/625/razer-logo-dark-background-3d-wallpaper-preview.jpg");	
+}
+.banner{
+    width: 100%;
+    margin: 0px;
+    
+}
+.primero figure {
+	width: 30%;
+	margin-top: 9px;
+	margin-bottom: 19px;
+	border: 3px solid rgb(125, 141, 216);
+}
+.primero figure img {
+	width: 80%;
+	margin: 5px auto;
+	display: block;
+    height: 189px;
+    padding: 1px;
+}
+.primero figure figcaption {
+	margin: 13px;
+	text-align: center;
+    font-weight: bold;
+}
+
+
+
+.segundo {
+	width: 100%;
+	background-image: url("https://www.teahub.io/photos/full/5-50867_fondos-de-pantalla-pc-4k-gamer..jpg");
+	display: flex;
+    flex-wrap: wrap;
+	flex-direction: row;
+	justify-content: space-around;
+    margin: 0px;
+		
+}
+main h1{
+    text-align: center;
+    color: white;
+}
+.segundo figure {
+	width: 15%;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border: 2px solid rgb(95, 9, 91);
+}
+.segundo figure img {
+	width: 40%;
+	margin: 10px auto;
+	display: block;
+    height: 100px;
+    padding: 1px;
+}
+.segundo figure figcaption {
+	margin: 13px;
+	text-align: center;
+    font-weight: bold;
+    color: rgb(4, 0, 255);
+}
+  
+p{
+    text-align: center;
+    color: red;
+}
+
+
+footer h1{
+    text-align: center;
+    color: rgb(72, 255, 0);
+
+}   
+footer div{ 
+    display: flex;
+flex-direction: row;
+justify-content: center;
+
+}
+footer div img{  
+    
+        height: 100px;
+        width: 100px;
+}
+.tercero {
+	width: 100%;
+    background-image: url("https://www.teahub.io/photos/full/245-2451155_abstracto-fondos-de-pantalla-oscuros.jpg");
+    display: flex;
+    flex-wrap: wrap;
+	flex-direction: row;
+	justify-content: space-around;
+    margin: 0px;
+		
+}
+a{
+    text-decoration: none;
+}
+.tercero figure {
+	width: 30%;
+	margin-top: 9px;
+	margin-bottom: 19px;
+	border: 3px solid rgb(246, 250, 9);
+    color: white;
+}
+.tercero figure img {
+	width: 80%;
+	margin: 5px auto;
+	display: block;
+    height: 189px;
+    padding: 1px;
+    ;
+}
+.tercero figure figcaption {
+	margin: 13px;
+	text-align: center;
+    font-weight: bold;
+    color: red;
+}
+.johan1:hover {
+    text-decoration: underline;
+}
+.johan2:hover {
+    text-decoration: underline;
+}
+.johan3:hover {
+    text-decoration: underline;
+}
+.johan4:hover {
+    text-decoration: underline;
+}
+.johan5:hover {
+    text-decoration: underline;
+}
+.johan6:hover {
+    text-decoration: underline;
+}
+.johan7:hover {
+    text-decoration: underline;
+}
+.johan8:hover {
+    text-decoration: underline;
+}
+.johan9:hover {
+    text-decoration: underline;
+}
+.johan10:hover {
+    text-decoration: underline;
+}
+.johan11:hover {
+    text-decoration: underline;
+}
+.johan12:hover {
+    text-decoration: underline;
+}
+.johan13:hover {
+    text-decoration: underline;
+}
+.johan14:hover {
+    text-decoration: underline;
+}
+.johan15:hover {
+    text-decoration: underline;
+}
+.johan16:hover {
+    text-decoration: underline;
+}
+.johan17:hover {
+    text-decoration: underline;
+}
+a:hover{
+         background-color: yellow;
+        font-style: inherit;
+    }
+
+main h1{
+    color: rgb(255, 251, 0);
+}
+a{
+    text-decoration: none;
+    color: rgb(4, 127, 228);
+}
